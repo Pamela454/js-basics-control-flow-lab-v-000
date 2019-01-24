@@ -4,5 +4,5 @@ function scuberGreetingForFeet()
   scuberGreetingForFeet = 'This one is on me!';
     
   } else if (ride > 400){
-  scuberGreetingForFeet =
+  scuberGreetingForFeet = 
   }
