@@ -23,6 +23,6 @@ function switchOnCharmFromTip(tip) {
     return 'Thank you.';
   break;
   case '':
-    return 'Thank you.';
+    return 'Bye.';
   break;
 }
